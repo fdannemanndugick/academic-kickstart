@@ -1,3 +1,15 @@
++++
+
+Pub_type key
+
+0->'Forthcoming',
+1->'Preprint',
+2->'Journal',
+3->'Conference Proceedings',
+4->'Book chapter',
+5->'Thesis'
+
+
 ---
 title: "Bayesian characterization of explosive sources using infrasonic signals"
 date: 2018-10-01
@@ -10,4 +22,3 @@ publication: "*Geophysical Journal International*"
 url_pdf: "https://academic.oup.com/gji/article/215/1/240/5046454"
 doi: "10.1093/gji/ggy258"
 ---
-

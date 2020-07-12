@@ -1,3 +1,15 @@
++++
+
+Pub_type key
+
+0->'Forthcoming',
+1->'Preprint',
+2->'Journal',
+3->'Conference Proceedings',
+4->'Book chapter',
+5->'Thesis'
+
+
 ---
 title: "Evaluation of a pair-based, joint-likelihood association approach for regional infrasound event identification"
 date: 2020-06-01
@@ -10,4 +22,3 @@ publication: "*Geophysical Journal International*"
 url_pdf: "https://academic.oup.com/gji/article/221/3/1750/5800992"
 doi: "10.1093/gji/ggaa105"
 ---
-

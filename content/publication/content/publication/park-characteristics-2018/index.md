@@ -1,3 +1,15 @@
++++
+
+Pub_type key
+
+0->'Forthcoming',
+1->'Preprint',
+2->'Journal',
+3->'Conference Proceedings',
+4->'Book chapter',
+5->'Thesis'
+
+
 ---
 title: "Characteristics of infrasound signals from North Korean underground nuclear explosions on 2016 January 6 and September 9"
 date: 2018-09-01
@@ -10,4 +22,3 @@ publication: "*Geophysical Journal International*"
 url_pdf: "https://academic.oup.com/gji/article/214/3/1865/5042944"
 doi: "10.1093/gji/ggy252"
 ---
-
