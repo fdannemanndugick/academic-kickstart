@@ -50,6 +50,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/fdannemanndugick
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/drfransiskad
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8328-4835
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  #- icon: cv
@@ -66,5 +72,4 @@ email: ""
 #- Visitors
 ---
 
-Fransiska Dannemann Dugick is a PhD Candidate in Geophysics at Southern Methodist University and a Graduate Research Assistant within the Seismoacoustics team at Los Alamos National Laboratory. 
-
+Fransiska Dannemann Dugick is a PhD Candidate in Geophysics at Southern Methodist University and a Graduate Research Assistant within the Seismoacoustics team at Los Alamos National Laboratory.
