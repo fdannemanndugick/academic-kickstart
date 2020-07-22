@@ -1,6 +1,6 @@
 ---
 title: A direct comparison between established infrasonic data processing baselines from the DNE18 Virtual Experiment
-summary: In collaboration with Sandia National Laboratories, I am comparing automatic infrasonic processing algorithms
+summary: In collaboration with Sandia National Laboratories, I am comparing automatic infrasonic processing algorithms.
 
 tags:
 - Signal Detection

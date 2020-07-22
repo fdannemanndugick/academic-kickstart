@@ -3,7 +3,7 @@ title: AGU Seismology Section Student Representative
 summary: I have served as one of the AGU Seismology Section Student Representatives since January 2018.  My responsibilities include maintaining our online presence: website and social media sites, coordinating student engagement activities and communicating student concerns to leadership.  
 
 tags:
-- Signal Detection
+
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
