@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fransiska K Dannemann Dugick
+title: Fransiska Kate Dannemann Dugick, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate, Geophysics
+role: Geophysicist
 
 # Organizations/Affiliations
 organizations:
-- name: Southern Methodist University
+- name: Sandia National Laboratories
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Geophysics
     institution: Southern Methodist University
-    year: expected December 2020
+    year: 2021
   - course: MS in Geophysics
     institution: Southern Methodist University
     year: 2016
@@ -72,4 +72,4 @@ email: ""
 #- Visitors
 ---
 
-Fransiska Dannemann Dugick is a PhD Candidate in Geophysics at Southern Methodist University and a Graduate Research Assistant within the Seismoacoustics team at Los Alamos National Laboratory.
+Fransiska Dannemann Dugick is a Geophysicist at Sandia National Laboratories
